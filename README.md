@@ -1,2 +1,2 @@
-# wordpress-security-101
-Wordpress Security Talk [Updated]
+# Wordpress Security Talk [Updated]
+This repo contains the presentation of the talk Wordpress Security 101.
